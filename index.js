@@ -1,7 +1,7 @@
 //The file index.js acts as the main server for the Node.js application
 
-//This is the file that acts as the main server and binds every API route together. 
-//We create this file in the root directory of the project and then add the following code:
+//Acts as the main server and binds every API route together. 
+//The file is in the root directory of the project
 
 const express = require("express");
 const app = express();
